@@ -7,4 +7,5 @@ def main():
     return suma
 
 if __name__ == '__main__':
+	print("kalkulator działa sobie tak")
     print(main())
